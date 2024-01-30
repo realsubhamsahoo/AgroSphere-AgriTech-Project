@@ -1,6 +1,6 @@
 # AgroSphere Project
 
-AgriSense is a sustainable agricultural development project that aims to monitor and manage farm data in India. This backend repository contains the server-side code for handling farm data using Node.js, Express, and MongoDB.
+AgroSphere is a sustainable agricultural development project that aims to monitor and manage farm data in India. This backend repository contains the server-side code for handling farm data using Node.js, Express, and MongoDB.
 
 ## Table of Contents
 
