@@ -1,4 +1,4 @@
-# AgroSphere Project
+# 🌱 AgroSphere Project
 
 <b>AgroSphere</b> is a sustainable agricultural development project for Hackathon that aims to monitor and manage farm data in India. This backend repository contains the server-side code for handling farm data using Node.js, Express, and MongoDB.
 
@@ -6,7 +6,8 @@
 ## Table of Contents
 
 - [Getting Started](#getting-started)
-  - [Key Features](#key-features)
+  - [Problem Statement](#problem-statement)
+  - [Feature or Solutions](#feature-or-solutions)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
@@ -20,10 +21,10 @@
 
 ### Problem Statement
 
-AgroSphere aims to revolutionize Indian agriculture by providing a comprehensive data-driven solution. Our project leverages sustainability, open innovation, and advanced technology to monitor and enhance the quality of agriculture in India. It offers real-time insights into climate, monsoon, soil health, groundwater, and pollution levels, making this data accessible to the public.
+⭐ AgroSphere aims to revolutionize Indian agriculture by providing a comprehensive data-driven solution. Our project leverages sustainability, open innovation, and advanced technology to monitor and enhance the quality of agriculture in India. It offers real-time insights into climate, monsoon, soil health, groundwater, and pollution levels, making this data accessible to the public.
 
-### Key Features to tackle the Problem Statement
-
+### Feature or Solutions
+- <b>AgroSphere</b> - provides comprehensive farming data.
 - <b>AgriSense</b> - Implement IoT devices and sensors to monitor soil health, groundwater levels, climate conditions, and pollution in real-time.
 - Develop algorithms to assess the quality of agriculture practices and provide feedback to farmers.
 - Integrate sustainable farming practices and certifications.
