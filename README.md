@@ -2,17 +2,11 @@
 
 <b>AgroSphere</b> is a sustainable agricultural development project for Hackathon that aims to monitor and manage farm data in India. This backend repository contains the server-side code for handling farm data using Node.js, Express, and MongoDB.
 
-## Key Features:
-
-- <b>AgriSense</b> - Implement IoT devices and sensors to monitor soil health, groundwater levels, climate conditions, and pollution in real-time.
-- Develop algorithms to assess the quality of agriculture practices and provide feedback to farmers.
-- Integrate sustainable farming practices and certifications.
-- Create an open API to encourage third-party developers and innovators to contribute to the platform.
-- Tech Stack Used: MERN (MongoDB, ExpressJS, React, NodeJs)
 
 ## Table of Contents
 
 - [Getting Started](#getting-started)
+  - [Key Features](#key-features)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
@@ -23,6 +17,14 @@
 - [License](#license)
 
 ## Getting Started
+
+### Key Features
+
+- <b>AgriSense</b> - Implement IoT devices and sensors to monitor soil health, groundwater levels, climate conditions, and pollution in real-time.
+- Develop algorithms to assess the quality of agriculture practices and provide feedback to farmers.
+- Integrate sustainable farming practices and certifications.
+- Create an open API to encourage third-party developers and innovators to contribute to the platform.
+- Tech Stack Used: MERN (MongoDB, ExpressJS, React, NodeJs)
 
 ### Prerequisites
 
@@ -37,6 +39,7 @@
    git clone https://github.com/your-username/AgroSphere-AgriTech-Project.git
    cd AgroSphere-AgriTech-Project
    ```
+   Replace "your-username" with your actual github username.
 2. Install dependencies:
 
 ```bash
