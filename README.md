@@ -18,7 +18,11 @@
 
 ## Getting Started
 
-### Key Features
+### Problem Statement
+
+AgroSphere aims to revolutionize Indian agriculture by providing a comprehensive data-driven solution. Our project leverages sustainability, open innovation, and advanced technology to monitor and enhance the quality of agriculture in India. It offers real-time insights into climate, monsoon, soil health, groundwater, and pollution levels, making this data accessible to the public.
+
+### Key Features to tackle the Problem Statement
 
 - <b>AgriSense</b> - Implement IoT devices and sensors to monitor soil health, groundwater levels, climate conditions, and pollution in real-time.
 - Develop algorithms to assess the quality of agriculture practices and provide feedback to farmers.
