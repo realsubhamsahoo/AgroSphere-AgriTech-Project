@@ -3,7 +3,7 @@
 <b>AgroSphere</b> is a sustainable agricultural development project for Hackathon that aims to monitor and manage farm data in India. This backend repository contains the server-side code for handling farm data using Node.js, Express, and MongoDB.
 <br>
 
-### Visit: [AgroSphere Website Homepage](https://subhamsahoo.in/agrosphere)
+### ⭐VISIT: [AgroSphere Website Homepage](https://subhamsahoo.in/agrosphere)
 
 ## Table of Contents
 
@@ -87,4 +87,4 @@ If you'd like to contribute to this project, please follow these steps:
 4. Submit a pull request.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/realsubhamsahoo/AgroSphere-AgriTech-Project/blob/main/LICENSE) file for details.
